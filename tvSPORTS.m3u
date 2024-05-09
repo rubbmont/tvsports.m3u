@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-7000K/7000_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-5600K/5600_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-3500K/3500_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-2532K/2532_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-1832K/1832_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-266K/266_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-450K/450_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-800K/800_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/cmaf-cenc-ctr-1200K/1200_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/audio-1-64K/64_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/audio-1-128K/128_complete.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/479/479173/6329dd3906fe6.jpg"
+group-title="SPORTS",Star+
+https://live-ftc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/05/07/PSG_vs_Borussia_Dortmund__20240507_1715099447032/ctr-all-complete.m3u8
+
+#EXTINF:-1 tvg-logo="https:XXXXXXXXXX.jpg"
+group-title="CATEGORIA",NOMBRE CANAL
+https://XXXXXXXXXX.m3u8
